@@ -1,5 +1,7 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.css"  rel="stylesheet" />
+<head>
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.css"  rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"></script>
+</head>
 # MySQLDev
  Adalah lingkungan pengembangan terintegrasi untuk bekerja dengan SQL di database MYSQL. MySQLDev Ditulis dengan bahasa pemrograman PHP untuk webbasednya, Python Untuk Command Line Interfacenya
  <br>
