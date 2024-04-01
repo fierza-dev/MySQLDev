@@ -1,5 +1,5 @@
 # MySQLDev (Early Access)
- Adalah lingkungan pengembangan terintegrasi untuk bekerja dengan SQL di database MYSQL. MySQLDev Ditulis dengan bahasa pemrograman PHP untuk webbasednya, Python Untuk Command Line Interfacenya
+ Sebuah klien MySQL yang dikembangkan menggunakan bahasa pemrograman Python tanpa memerlukan instalasi XAMPP atau perangkat lunak serupa 
  <br><br>
  <b>Installer MySQLDev :</b>
  <br>
