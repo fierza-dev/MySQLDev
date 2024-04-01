@@ -1,3 +1,4 @@
+<img src="Screenshot from 2024-04-01 18-19-12.png">
 # MySQLDev (Early Access)
  Sebuah klien MySQL yang dikembangkan menggunakan bahasa pemrograman Python tanpa memerlukan instalasi XAMPP atau perangkat lunak serupa 
  <br><br>
